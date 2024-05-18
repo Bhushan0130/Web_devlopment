@@ -1,0 +1,9 @@
+body{
+    display: flex;
+    background-color:lightblue;
+    align-content: center;
+}
+
+.head2{
+    color:blue;
+}
