@@ -1,0 +1,31 @@
+header{
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color:antiquewhite;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.product1{
+    border: 2px solid;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+img{
+    max-width: 50%;
+}
